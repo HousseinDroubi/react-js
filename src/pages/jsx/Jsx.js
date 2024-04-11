@@ -75,6 +75,6 @@ const Jsx = () => {
   );
 };
 
-// ! Jsx stands for JS XML, it's a HTML-like code
+// ! Jsx stands for JS XML, it's an HTML-like code
 
 export default Jsx;

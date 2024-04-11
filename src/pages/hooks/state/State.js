@@ -9,7 +9,6 @@ const State = () => {
       <button
         onClick={() => {
           setCounter(counter + 1);
-          console.log(counter);
         }}
       >
         Increment
@@ -17,7 +16,6 @@ const State = () => {
       <button
         onClick={() => {
           setCounter(counter - 1);
-          console.log(counter);
         }}
       >
         Decrement
